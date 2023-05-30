@@ -115,3 +115,5 @@ build/
 
 # .mp4
 *.mp4
+
+update_server.sh

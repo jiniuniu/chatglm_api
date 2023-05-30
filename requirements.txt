@@ -9,3 +9,4 @@ mdtex2html
 sentencepiece
 accelerate
 icetk
+langchain
